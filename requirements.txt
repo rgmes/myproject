@@ -10,6 +10,7 @@ idna==3.11
 jiter==0.13.0
 jsonpatch==1.33
 jsonpointer==3.0.0
+langchain==1.2.10
 langchain-core==1.2.13
 langchain-openai==1.1.10
 langgraph==1.0.8
@@ -23,6 +24,7 @@ ormsgpack==1.12.2
 packaging==26.0
 pydantic==2.12.5
 pydantic_core==2.41.5
+python-dotenv==1.2.1
 PyYAML==6.0.3
 regex==2026.1.15
 requests==2.32.5
